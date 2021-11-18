@@ -1,0 +1,19 @@
+{
+  "name": "pig-latinify",
+  "version": "1.0.0",
+  "description": "A simple util package to convert strings into pig latin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsc0388/pig-latinify.git"
+  },
+  "author": "Callum Koike Marshall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marsc0388/pig-latinify/issues"
+  },
+  "homepage": "https://github.com/marsc0388/pig-latinify#readme"
+}
